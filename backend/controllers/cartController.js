@@ -73,5 +73,5 @@ const getUserCart = async (req,res)=>{
 
 }
 
-
+//export the controller function 
 export { addToCart, updateCart,getUserCart}
